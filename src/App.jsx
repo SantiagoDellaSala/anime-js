@@ -45,7 +45,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1 ref={titleRef}>Hola con Anime.js 🎉</h1>
+      <h1 ref={titleRef}>Prueba de Anime.js 🎉</h1>
       <div ref={boxRef} className="box"></div>
     </div>
   );
